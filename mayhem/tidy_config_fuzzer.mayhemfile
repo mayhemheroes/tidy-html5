@@ -1,0 +1,4 @@
+project: PROJECT
+target: tidy_config_fuzzer
+cmds:
+- cmd: /out/tidy_config_fuzzer
